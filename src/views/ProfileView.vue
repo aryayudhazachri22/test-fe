@@ -21,6 +21,7 @@ export default {
           <img src="../assets/profile.jpg" class="rounded" width="150px" />
         </div>
         <h5 class="card-title mt-2">Arya Yudha Zachri</h5>
+        <h6>Junior Software Engineer</h6>
         <p class="card-text">
           Kota Depok, Jawa Barat
         </p>

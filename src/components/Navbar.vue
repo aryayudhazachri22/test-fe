@@ -15,7 +15,7 @@ export default {
 <template>
   <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
     <div class="container">
-      <a class="navbar-brand" href="#">Absensi</a>
+      <a class="navbar-brand" href="#">Attendance App</a>
       <button
         class="navbar-toggler"
         type="button"
