@@ -34,7 +34,7 @@ export default {
               class="nav-link"
               href="#"
               @click.prevent="$router.push('/')"
-              >Absent</a
+              >Home</a
             >
           </li>
           <li v-if="isLogin" class="nav-item">

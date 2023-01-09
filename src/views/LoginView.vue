@@ -41,7 +41,7 @@ export default {
             </div>
             <button
               type="submit"
-              class="btn btn-primary me-3"
+              class="btn btn-dark me-3"
             >
               Login <i class="bi bi-arrow-bar-right"></i>
             </button>
