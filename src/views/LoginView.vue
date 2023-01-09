@@ -43,7 +43,7 @@ export default {
               type="submit"
               class="btn btn-primary me-3"
             >
-              Let's Login! <i class="bi bi-arrow-bar-right"></i>
+              Login <i class="bi bi-arrow-bar-right"></i>
             </button>
             </form>
           </div>

@@ -28,14 +28,14 @@ export default {
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Arya</td>
+          <td>Arya Yudha Zachri</td>
           <td>07.00</td>
           <td>Junior Software Engineer</td>
           <td>Mampang, Jakarta Selatan</td>
         </tr>
         <tr>
           <th scope="row">2</th>
-          <td>Arya</td>
+          <td>Arya Yudha Zachri</td>
           <td>07.20</td>
           <td>Junior Software Engineer</td>
           <td>Mampang, Jakarta Selatan</td>
